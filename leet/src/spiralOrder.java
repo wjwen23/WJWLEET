@@ -17,7 +17,7 @@ class spiralOrder {
         }
         if(length > 1){
             for(int j = 0;j < length; j++){
-                
+
             }
         }
 
@@ -29,7 +29,7 @@ class spiralOrder {
     public void main(String args[]){
         List<Integer> L1 = null;
         L1.add(1);
-        L2.add
+        //L2.add
 
     }
 }
